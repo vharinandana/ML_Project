@@ -28,8 +28,15 @@ https://mlproject-5zu4cc9gnze4kbi59wzfnq.streamlit.app/
 - requirements.txt → Dependencies
 
 ##  How to Run Locally
-git clone https://github.com/vharinandana/ML_Project.git
+1. Clone the repository:
+git clone [https://github.com/vharinandana/ML_Project.git](https://github.com/vharinandana/ML_Project.git)
+
+2. Navigate to the directory:
 cd ML_Project
+
+3. Install dependencies:
 pip install -r requirements.txt
+
+4. Run the application:
 streamlit run app.py
 
